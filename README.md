@@ -4,8 +4,8 @@
 
 #### My stats (nothing special, I'm <ins>no stack</ins> developer :D):
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ferenc1234&theme=dark&background=000000)](https://git.io/streak-stats)
-<img width=390 height=155 src="https://github-readme-stats-meywys-projects.vercel.app/api?username=Ferenc1234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+[![GitHub Streak](https://github-readme-streak-stats-meywys-projects.vercel.app?user=Ferenc1234&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferenc1234)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My langs (as u can see I have nightmares about HTML):
 
