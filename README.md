@@ -10,3 +10,5 @@
 #### My langs (as u can see I have nightmares about HTML):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferenc1234&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+If u need hmu on discord: @L0wiee
